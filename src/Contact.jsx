@@ -20,7 +20,7 @@ const Contact = () => {
 				// alert("form submitted!🥨");
 			})
 			.catch((e) => console.log(e.message));
-		console.log(name + "🍕🍕🍕🍟" + email + "🍔🍔🍔" + message);
+		// console.log(name + "🍕🍕🍕🍟" + email + "🍔🍔🍔" + message);
 		setName("");
 		setEmail("");
 		setMessage("");
