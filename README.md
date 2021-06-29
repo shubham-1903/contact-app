@@ -1,5 +1,10 @@
-# Contact App
+# Contact App {neuromorphic ui}
 ![Contact](/contact.png)
+
+## Description
+
+> This contact app is designed based on neuromorphic user interface and using firebase as backend.
+
 
 # Getting Started with Create React App Using Vite
 
